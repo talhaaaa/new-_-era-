@@ -1,2 +1,2 @@
 # new _ era 
- journey start
+ this repository will contain practice on html, cssand on javascript.
